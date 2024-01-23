@@ -12,8 +12,8 @@ Jika sudah berhasil menggunankan cara clasic (`for/while/do while`), boleh mener
 - Buat fungsi yang menerima parameter data `number`
 - kembalikan dalam bentuk `string`
 - Jika 90 - 100 dapat `A`
-- Jika 80 - 99 dapat `B`
-- Jika 70 - 89 dapat `C`
+- Jika 80 - 89 dapat `B`
+- Jika 70 - 79 dapat `C`
 - Selain itu dapat `D`
 
 **Contoh**
